@@ -1,1 +1,3 @@
 https://community.global.hsbc/sites/engpractices/DevOps%20Tooling%20Training/DevOps%20Tooling%20Training.aspx
+
+https://www.ansible.com/webinars-training/introduction-to-ansible
